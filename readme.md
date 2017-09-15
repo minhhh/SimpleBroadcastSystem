@@ -7,6 +7,7 @@ To include SimpleBroadcastSystem into your project, you can use `npm` method of 
 ## Usage
 
 **Add Subscriber**
+
 Each subscriber is a method that receives one parameter of type `object`, i.e. UnityAction <object>.
 
 ```
